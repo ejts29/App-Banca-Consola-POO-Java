@@ -42,7 +42,7 @@ Este proyecto puede ejecutarse instantáneamente en tu navegador gracias a **Rep
 Para ejecutarlo localmente, asegúrate de tener **Java 21** (o compatible) y **Maven** instalados. Puedes utilizar un IDE como **Apache NetBeans** o seguir los pasos de la terminal:
 
 1. Clonar el repositorio.
-2. Navegar a la carpeta raíz del proyecto (`Sistema-Gestion-Colaboradores-Java`).
+2. Navegar a la carpeta raíz del proyecto (`App-Banca-Consola-POO-Java`).
 3. Ejecutar el siguiente comando en la terminal:
     ```bash
     mvn clean install exec:java
