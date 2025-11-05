@@ -1,8 +1,8 @@
 # 🏦 App Banca de Consola (POO en Java)
 
-Proyecto de aplicación de consola desarrollado en **Java (Maven)** para simular las operaciones básicas de una cuenta corriente.
-
-Este sistema demuestra la aplicación de **Programación Orientada a Objetos (POO)**, manejo de estructuras de datos y lógica de negocio centrada en la seguridad y gestión financiera.
+> Proyecto de aplicación de **consola** desarrollado en **Java (Maven)** para simular las operaciones básicas de una cuenta corriente. ficticia.
+>
+> Desarrollado en ** un Examen de Programación Orientada a Objetos (POO)**, este sistema demuestra la aplicación rigurosa de principios POO, lógica de negocio compleja y manejo de estructuras de datos, lógica de negocio centrada en la seguridad y gestión en un entorno *backend* puro.
 
 ---
 
