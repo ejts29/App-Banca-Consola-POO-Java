@@ -47,6 +47,7 @@ Para ejecutarlo localmente, asegúrate de tener **Java 21** (o compatible) y **M
     ```bash
     mvn clean install exec:java
     ```
+    v3
 
 ---
 
