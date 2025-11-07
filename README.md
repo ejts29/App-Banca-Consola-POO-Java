@@ -51,6 +51,6 @@ Para ejecutarlo localmente, asegúrate de tener **Java 21** (o compatible) y **M
 
 ---
 
-## 🏷️ Estructura del Proyecto
+## Estructura del Proyecto
 
 El proyecto sigue la estructura estándar de **Maven**:
