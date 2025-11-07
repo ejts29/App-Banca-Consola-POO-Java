@@ -43,7 +43,7 @@ Este proyecto puede ejecutarse instantáneamente en tu navegador gracias a **Rep
 4.  **Ejecutar:** Te aparecerá un botón **"Project"** en verde. Pínchalo.
 5.  **¡Bienvenido!** Ya estás ejecutando el programa y lo puedes usar.
  
-[![Run on Replit](https://replit.com/badge/github/ejts29/App-Banca-Consola-POO-Java)](https://replit.com/@ejts29/REPLACE-WITH-YOUR-REPL-LINK) 
+[![Run on Replit](https://replit.com/@ejts29/App-Banca-Consola-POO-Java)](https://replit.com/@ejts29/App-Banca-Consola-POO-Java) 
 
 # Pasos para Eliminar un Repositorio (App) en Replit
 
